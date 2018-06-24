@@ -1,6 +1,0 @@
-# IntelliJ project meta data
-.idea
-*.iml
-
-# Maven
-target

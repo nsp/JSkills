@@ -1,25 +1,8 @@
 JSkills
 =======
-[![Build Status](https://travis-ci.org/nsp/JSkills.svg?branch=master)](https://travis-ci.org/nsp/JSkills)
+This was a detailed implementation of the TrueSkill algorithm in Java.
 
-A detailed implementation of the TrueSkill algorithm in Java.
-
-Usage
------
-
-Install this package to your local Maven repository
-
-    mvn install
-
-and define the dependency in your project as following
-
-```XML
-<dependency>
-    <groupId>jskills</groupId>
-    <artifactId>jskills</artifactId>
-    <version>0.9.1-SNAPSHOT</version>
-</dependency>
-```
+Please go to [gesundkrank's JSkills project](https://github.com/gesundkrank/JSkills) for one that is actively maintained and has Maven integration, or the [network graph](https://github.com/nsp/JSkills/network) for all related TrueSkill projects.
 
 License
 -------
